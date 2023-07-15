@@ -33,6 +33,7 @@ An academic program designed to create and manage task lists, specifically devel
 The program is being performed with the following technology:
 
 - [C](https://www.cprogramming.com/)
+- [make](https://www.gnu.org/software/make/manual/make.html)
 
 ## :boom: How to run the application?
 
