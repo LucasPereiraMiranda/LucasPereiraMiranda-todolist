@@ -30,9 +30,10 @@ An academic program designed to create and manage task lists, specifically devel
 
 ## 🚀 Techs
 
-The program is being performed with the following technology:
+The program is being performed with the following technologies:
 
 - [C](https://www.cprogramming.com/)
+- [make](https://www.gnu.org/software/make/manual/make.html)
 
 ## :boom: How to run the application?
 
